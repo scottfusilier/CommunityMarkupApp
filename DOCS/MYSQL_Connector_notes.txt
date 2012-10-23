@@ -1,0 +1,23 @@
+instll locations:
+
+-- Installing: /usr/local/include/cppconn/build_config.h
+-- Installing: /usr/local/include/cppconn/connection.h
+-- Installing: /usr/local/include/cppconn/datatype.h
+-- Installing: /usr/local/include/cppconn/driver.h
+-- Installing: /usr/local/include/cppconn/exception.h
+-- Installing: /usr/local/include/cppconn/metadata.h
+-- Installing: /usr/local/include/cppconn/parameter_metadata.h
+-- Installing: /usr/local/include/cppconn/prepared_statement.h
+-- Installing: /usr/local/include/cppconn/resultset.h
+-- Installing: /usr/local/include/cppconn/resultset_metadata.h
+-- Installing: /usr/local/include/cppconn/statement.h
+-- Installing: /usr/local/include/cppconn/sqlstring.h
+-- Installing: /usr/local/include/cppconn/warning.h
+-- Installing: /usr/local/include/cppconn/config.h
+-- Installing: /usr/local/lib/libmysqlcppconn.so.5.1.1.0
+-- Installing: /usr/local/lib/libmysqlcppconn.so.5
+-- Installing: /usr/local/lib/libmysqlcppconn.so
+-- Installing: /usr/local/lib/libmysqlcppconn-static.a
+-- Installing: /usr/local/include/mysql_connection.h
+-- Installing: /usr/local/include/mysql_driver.h
+

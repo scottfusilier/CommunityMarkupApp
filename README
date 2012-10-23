@@ -1,0 +1,14 @@
+/* MARKUPAPP */
+
+Author:
+Scott Fusilier 2012
+
+
+Dependencies:
+
+
+gtk-3.0.12_2        Gimp Toolkit for X11 GUI (current stable version)
+gtkmm-3.0.1_1       C++ wrapper for Gtk+, Pango
+mysql-connector-c++-1.1.0 A MySQL database connector for C++
+mysql-server-5.5.25 Multithreaded SQL database (server)
+mysql-client-5.5.25 Multithreaded SQL database (client)

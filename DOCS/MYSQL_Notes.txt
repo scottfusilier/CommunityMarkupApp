@@ -1,0 +1,4 @@
+to start server, as root:
+
+# /usr/local/etc/rc.d/mysql-server onestart
+
