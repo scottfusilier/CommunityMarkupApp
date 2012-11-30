@@ -1,0 +1,7 @@
+<map id="ViewerTagger" name="ViewerTagger">
+<area shape="rect" id="node4" href="$classIOBuffer.html" title="{IOBuffer\n||+ IOBuffer()\l+ ~IOBuffer()\l+ on_timeout()\l+ get_dbi()\l+ get_inbuffer()\l+ get_outbuffer()\l}" alt="" coords="129,163,255,314"/>
+<area shape="rect" id="node8" href="$classTagDialog.html" title="{TagDialog\n|+ m_entry\l|+ TagDialog()\l+ ~TagDialog()\l}" alt="" coords="279,193,397,285"/>
+<area shape="rect" id="node12" href="$classConnectionDialog.html" title="{ConnectionDialog\n|+ url_l\l+ user_l\l+ pass_l\l+ db_l\l+ url_e\l+ user_e\l+ pass_e\l+ db_e\l|+ ConnectionDialog()\l+ ~ConnectionDialog()\l}" alt="" coords="421,141,585,336"/>
+<area shape="rect" id="node16" href="$classDisplayArea.html" title="{DisplayArea\n|+ tag_sig\l# x\l# y\l# m_image\l|+ DisplayArea()\l+ ~DisplayArea()\l+ display_image()\l+ get_x()\l+ get_y()\l# on_draw()\l# on_mouse()\l}" alt="" coords="611,134,745,343"/>
+<area shape="rect" id="node20" href="$classPhoto.html" title="{Photo\n||+ Photo()\l+ ~Photo()\l+ insert_tag()\l+ delete_tag()\l+ get_id()\l+ set_id()\l+ get_image()\l}" alt="" coords="771,156,881,321"/>
+</map>
