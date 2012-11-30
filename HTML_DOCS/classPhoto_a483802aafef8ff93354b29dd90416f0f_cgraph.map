@@ -1,0 +1,5 @@
+<map id="Photo::delete_tag" name="Photo::delete_tag">
+<area shape="rect" id="node3" href="$classTag.html#a66f5c811c5885fa73115fb543287e0c1" title="Tag::get_name" alt="" coords="187,5,303,32"/>
+<area shape="rect" id="node5" href="$classTag.html#ac3c0cc13b561f6aa90d5a7ab311112ef" title="Tag::set_next" alt="" coords="192,56,299,83"/>
+<area shape="rect" id="node7" href="$classTag.html#a0b2371a1324906a10d883c84f25ba119" title="Tag::get_next" alt="" coords="191,107,299,133"/>
+</map>

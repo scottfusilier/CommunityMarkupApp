@@ -1,0 +1,4 @@
+<map id="QueueArray" name="QueueArray">
+<area shape="rect" id="node2" href="$classPhoto.html" title="{Photo\n|&#45; imageID\l&#45; head\l&#45; tail\l&#45; image\l|+ Photo()\l+ ~Photo()\l+ insert_tag()\l+ delete_tag()\l+ get_id()\l+ set_id()\l+ get_image()\l}" alt="" coords="13,382,124,591"/>
+<area shape="rect" id="node4" href="$classTag.html" title="{Tag\n|&#45; id\l&#45; name\l&#45; x\l&#45; y\l|+ Tag()\l+ Tag()\l+ ~Tag()\l+ set_id()\l+ set_name()\l+ set_next()\l+ set_x()\l+ set_y()\l+ get_id()\l+ get_name()\l+ get_next()\l+ get_x()\l+ get_y()\l}" alt="" coords="15,6,123,303"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ViewerTagger::db_connection" name="ViewerTagger::db_connection">
+<area shape="rect" id="node3" href="$classViewerTagger.html#a090f1df178e7a1edd4a90c1de4ff8fbf" title="ViewerTagger::create\l_iobuffer" alt="" coords="264,23,421,65"/>
+<area shape="rect" id="node5" href="$classIOBuffer.html#a9074b80c1c3535662cfbf39c0176252a" title="IOBuffer::get_dbi" alt="" coords="495,5,622,32"/>
+<area shape="rect" id="node7" href="$classViewerTagger.html#ab150d2a8f36f30f44edc344897db5448" title="ViewerTagger::on_signal" alt="" coords="469,56,648,83"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="ViewerTagger::tag_signal" name="ViewerTagger::tag_signal">
+<area shape="rect" id="node3" href="$classDisplayArea.html#a106aeb13d730956c7fc4e968d0273d06" title="DisplayArea::get_x" alt="" coords="245,5,384,32"/>
+<area shape="rect" id="node5" href="$classDisplayArea.html#a135f3c61fcaba620482b279b5c781b4d" title="DisplayArea::get_y" alt="" coords="245,56,384,83"/>
+<area shape="rect" id="node7" href="$classPhoto.html#a7c6b950c61147ae8befd5dfc58996639" title="Photo::insert_tag" alt="" coords="251,107,379,133"/>
+<area shape="rect" id="node11" href="$classViewerTagger.html#a31a7104dd381bb561b4689a552449b9d" title="ViewerTagger::photo\l_timeout" alt="" coords="238,158,391,199"/>
+<area shape="rect" id="node9" href="$classTag.html#ac3c0cc13b561f6aa90d5a7ab311112ef" title="Tag::set_next" alt="" coords="485,107,592,133"/>
+<area shape="rect" id="node13" href="$classViewerTagger.html#a47370ab3f60e39429df9e44e9205c250" title="ViewerTagger::update_view" alt="" coords="441,165,637,192"/>
+<area shape="rect" id="node15" href="$classIOBuffer.html#a6cd16fa78b2452ebdd1cdeef68bb6645" title="IOBuffer::get_inbuffer" alt="" coords="687,115,841,141"/>
+<area shape="rect" id="node17" href="$classQueueArray.html#af586c4bbdd8166dff1fcb451e619cddf" title="QueueArray::dequeue" alt="" coords="685,165,843,192"/>
+<area shape="rect" id="node21" href="$classDisplayArea.html#aadb1bfccd4312b0d9b056ebcf2b28e9a" title="DisplayArea::display\l_image" alt="" coords="690,217,838,258"/>
+<area shape="rect" id="node19" href="$classQueueArray.html#a3cf81061cff70ca7bc9938cb996a85ec" title="QueueArray::isEmpty" alt="" coords="891,165,1043,192"/>
+<area shape="rect" id="node23" href="$classPhoto.html#a47cebc7b3cb719fc755e99eba0c2323a" title="Photo::get_image" alt="" coords="901,224,1032,251"/>
+</map>

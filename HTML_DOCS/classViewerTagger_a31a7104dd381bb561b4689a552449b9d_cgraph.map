@@ -1,0 +1,8 @@
+<map id="ViewerTagger::photo_timeout" name="ViewerTagger::photo_timeout">
+<area shape="rect" id="node3" href="$classViewerTagger.html#a47370ab3f60e39429df9e44e9205c250" title="ViewerTagger::update_view" alt="" coords="209,56,405,83"/>
+<area shape="rect" id="node5" href="$classIOBuffer.html#a6cd16fa78b2452ebdd1cdeef68bb6645" title="IOBuffer::get_inbuffer" alt="" coords="455,5,609,32"/>
+<area shape="rect" id="node7" href="$classQueueArray.html#af586c4bbdd8166dff1fcb451e619cddf" title="QueueArray::dequeue" alt="" coords="453,56,611,83"/>
+<area shape="rect" id="node11" href="$classDisplayArea.html#aadb1bfccd4312b0d9b056ebcf2b28e9a" title="DisplayArea::display\l_image" alt="" coords="458,107,606,149"/>
+<area shape="rect" id="node9" href="$classQueueArray.html#a3cf81061cff70ca7bc9938cb996a85ec" title="QueueArray::isEmpty" alt="" coords="659,56,811,83"/>
+<area shape="rect" id="node13" href="$classPhoto.html#a47cebc7b3cb719fc755e99eba0c2323a" title="Photo::get_image" alt="" coords="669,115,800,141"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Photo::get_image" name="Photo::get_image">
+<area shape="rect" id="node3" href="$classDisplayArea.html#aadb1bfccd4312b0d9b056ebcf2b28e9a" title="DisplayArea::display\l_image" alt="" coords="185,5,333,46"/>
+<area shape="rect" id="node5" href="$classViewerTagger.html#a47370ab3f60e39429df9e44e9205c250" title="ViewerTagger::update_view" alt="" coords="382,12,578,39"/>
+<area shape="rect" id="node7" href="$classViewerTagger.html#a31a7104dd381bb561b4689a552449b9d" title="ViewerTagger::photo\l_timeout" alt="" coords="627,5,781,46"/>
+<area shape="rect" id="node9" href="$classViewerTagger.html#a401e74d56fe67deb00fb9a465b5fc7a7" title="ViewerTagger::ViewerTagger" alt="" coords="1267,13,1474,40"/>
+<area shape="rect" id="node11" href="$classViewerTagger.html#a96768743cb32ea26857139851d2e6081" title="ViewerTagger::tag_signal" alt="" coords="830,39,1013,65"/>
+<area shape="rect" id="node13" href="$classViewerTagger.html#a033a188dd45e95e3f83eb3223f195859" title="ViewerTagger::create\l_displayarea" alt="" coords="1061,35,1219,77"/>
+</map>

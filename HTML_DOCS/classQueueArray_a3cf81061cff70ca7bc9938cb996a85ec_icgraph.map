@@ -1,0 +1,10 @@
+<map id="QueueArray::isEmpty" name="QueueArray::isEmpty">
+<area shape="rect" id="node3" href="$classIOBuffer.html#ae0a9011d7e293129c87c4b18dc2f84c2" title="IOBuffer::on_timeout" alt="" coords="435,8,584,35"/>
+<area shape="rect" id="node7" href="$classQueueArray.html#af586c4bbdd8166dff1fcb451e619cddf" title="QueueArray::dequeue" alt="" coords="205,59,363,85"/>
+<area shape="rect" id="node5" href="$classIOBuffer.html#a34285d6f4487af96f0376723068f7867" title="IOBuffer::IOBuffer" alt="" coords="667,5,799,32"/>
+<area shape="rect" id="node10" href="$classViewerTagger.html#a47370ab3f60e39429df9e44e9205c250" title="ViewerTagger::update_view" alt="" coords="411,60,607,87"/>
+<area shape="rect" id="node12" href="$classViewerTagger.html#a31a7104dd381bb561b4689a552449b9d" title="ViewerTagger::photo\l_timeout" alt="" coords="657,57,810,98"/>
+<area shape="rect" id="node14" href="$classViewerTagger.html#a401e74d56fe67deb00fb9a465b5fc7a7" title="ViewerTagger::ViewerTagger" alt="" coords="1297,65,1503,92"/>
+<area shape="rect" id="node16" href="$classViewerTagger.html#a96768743cb32ea26857139851d2e6081" title="ViewerTagger::tag_signal" alt="" coords="859,91,1042,117"/>
+<area shape="rect" id="node18" href="$classViewerTagger.html#a033a188dd45e95e3f83eb3223f195859" title="ViewerTagger::create\l_displayarea" alt="" coords="1091,87,1248,129"/>
+</map>

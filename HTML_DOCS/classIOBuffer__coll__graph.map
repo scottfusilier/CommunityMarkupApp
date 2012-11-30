@@ -1,0 +1,6 @@
+<map id="IOBuffer" name="IOBuffer">
+<area shape="rect" id="node4" href="$classQueueArray.html" title="{QueueArray\n|&#45; front\l&#45; rear\l&#45; MAXSIZE\l|+ QueueArray()\l+ ~QueueArray()\l+ isFull()\l+ isEmpty()\l+ enqueue()\l+ dequeue()\l+ queueCount()\l}" alt="" coords="124,656,252,851"/>
+<area shape="rect" id="node6" href="$classPhoto.html" title="{Photo\n|&#45; imageID\l&#45; head\l&#45; tail\l&#45; image\l|+ Photo()\l+ ~Photo()\l+ insert_tag()\l+ delete_tag()\l+ get_id()\l+ set_id()\l+ get_image()\l}" alt="" coords="132,382,243,591"/>
+<area shape="rect" id="node8" href="$classTag.html" title="{Tag\n|&#45; id\l&#45; name\l&#45; x\l&#45; y\l|+ Tag()\l+ Tag()\l+ ~Tag()\l+ set_id()\l+ set_name()\l+ set_next()\l+ set_x()\l+ set_y()\l+ get_id()\l+ get_name()\l+ get_next()\l+ get_x()\l+ get_y()\l}" alt="" coords="134,6,241,303"/>
+<area shape="rect" id="node11" href="$classDBinterface.html" title="{DBinterface\n|+ error_sig\l# URL\l# USER\l# PASS\l# DB\l|+ DBinterface()\l+ DBinterface()\l+ ~DBinterface()\l+ retrieve_photo()\l+ store_photo()\l}" alt="" coords="277,656,413,851"/>
+</map>
